@@ -1,0 +1,11 @@
+.crop {
+  overflow: hidden;
+}
+div {
+  cursor: pointer;
+}
+:hover{
+  color:darkblue;
+  text-shadow: 2px 2px 5px red;
+}
+
